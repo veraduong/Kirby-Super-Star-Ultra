@@ -1,0 +1,7 @@
+Minions: Waddle Doo
+Description: Kirby can copy Waddle Doo and gain the power "Sword", increasing his attack power
+
+Boss: King Dedede
+Description: King Dedede is the self-proclaimed king of Dreamland and has stolen all the food in Dreamland
+Damage: King Dedede can do between 1 and 35 damage per attack
+Evade: King dedede can choose to evade Kirby's attacks entirely

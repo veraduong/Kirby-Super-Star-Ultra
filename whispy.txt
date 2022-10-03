@@ -1,0 +1,6 @@
+Minions: Sir Kibble
+Description: Kirby can copy Sir Kibble and gain the power "Shield," increasing his health
+
+Boss: Whispy Woods
+Description: Whipsy Woods is the forest king of DreamLand. He attacks by throwing apples. 
+Damage: Whispy can do between 1 to 25 damage per attack

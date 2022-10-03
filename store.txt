@@ -1,0 +1,6 @@
+Energy Drink: Increases Kirby's Energy by 05,2
+Helmet: Increases Kirby's Defense by 10,3
+Bomb: Increases Kirby's Attack by 15,4
+Health Potion: Increases Kirby's Health by 20,5
+Assist Star: Increases Kirby's Health and Attack by 25,6
+
